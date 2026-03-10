@@ -77,11 +77,11 @@ Players may:
 * move the horses
 * ignore them
 
-# Scene 3: Goblin ambush
+### Scene 3: Goblin ambush
 
 Hidden goblins attack from the sides.
 
-# Scene 4: Aftermath
+### Scene 4: Aftermath
 
 Players may:
 
@@ -90,7 +90,7 @@ Players may:
 * capture a goblin
 * continue to Phandalin
 
-# Scene 5: Goblin Trail
+### Scene 5: Goblin Trail
 
 * Establish marching order
 
@@ -108,4 +108,4 @@ Pit:
   * DC 10 Dexterity OR
   * 1d6 bludgeoning
 
-# Scene 6: Cragmaw Hideout
+### Scene 6: Cragmaw Hideout
