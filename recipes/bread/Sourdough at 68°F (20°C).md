@@ -1,4 +1,3 @@
-# Sourdough at 68°F (20°C)
 
 ## Morning-to-Next-Morning Schedule
 

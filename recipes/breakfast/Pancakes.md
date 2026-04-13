@@ -1,5 +1,3 @@
-# Pancakes
-
 ## Eggless Pancakes (fried in ghee)
 *Makes 5–6*
 

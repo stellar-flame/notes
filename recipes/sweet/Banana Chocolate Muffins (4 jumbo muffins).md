@@ -1,4 +1,3 @@
-# Banana Chocolate Muffins (4 jumbo muffins)
 
 ## Ingredients
 
