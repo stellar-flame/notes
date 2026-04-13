@@ -1,5 +1,3 @@
-### Combat
-
 Create a mental model and draw it on paper for reference
 
 # Who goes first:
